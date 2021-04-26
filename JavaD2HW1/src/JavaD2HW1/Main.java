@@ -47,9 +47,6 @@ public class Main {
 		courseManager.addToCart(course3);
 		
 		
-		
-		
-		
 	}
 
 }
